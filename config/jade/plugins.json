@@ -54,6 +54,9 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "immersiveengineering": {
+    "multiblock_icon": true
+  },
   "supplementaries": {
     "hat_stand": true
   },
@@ -64,5 +67,10 @@
     "coordinates": false,
     "registry_name": "OFF",
     "mod_name": true
+  },
+  "immersiveconvergence": {
+    "multiblock_icon": true,
+    "lines": true,
+    "status": true
   }
 }
