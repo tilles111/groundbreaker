@@ -99,6 +99,17 @@
         "value": 1024
       }
     },
+    "environmental:stealth": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
     "minecraft:generic.attack_damage": {
       "enabled": true,
       "min": {
