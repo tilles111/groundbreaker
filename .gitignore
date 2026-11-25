@@ -98,5 +98,12 @@ $RECYCLE.BIN/
 .DS_Store
 .AppleDouble
 .LSOverride
+
+# pakku
 pakku.jar
+
+# instance stuff
 instance.json
+instance.png
+
+# unsorted
