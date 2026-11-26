@@ -54,6 +54,14 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "treechop": {
+    "plugin": true,
+    "show_tree_block_counts": true,
+    "show_num_chops_remaining": true
+  },
+  "enigmaticgraves": {
+    "grave": true
+  },
   "immersiveengineering": {
     "multiblock_icon": true
   },

@@ -1,0 +1,16 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "botania:lexicon": {
+      "viewedEntries": [
+        "botania:ender/piston_relay",
+        "botania:mana/prism",
+        "botania:mana/manastar",
+        "botania:mana/rf_generator"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}
